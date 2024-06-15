@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+.main-container{
+    width: 100%;
+    margin: 0px auto;
+}
+ h1, h2, h3, h4, h5, h6{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    color: #1B3942;
+ }
+ body, p, a, span, div, li, input, button {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500; 
+}
